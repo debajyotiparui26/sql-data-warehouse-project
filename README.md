@@ -71,9 +71,3 @@ Revenue trends
 Business growth metrics
 
 
-🛠️ Technologies Used
-Category	Tools & Technologies
-Database	SQL Server Express
-SQL IDE	SQL Server Management Studio (SSMS)
-ETL	SQL Scripts
-Data Modeling	Star Schema
